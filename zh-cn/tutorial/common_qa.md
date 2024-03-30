@@ -105,3 +105,25 @@ Warning：请勿将 ApiKey 透露给任何人，否则可能会造成账号被�
 
 <br />
 
+<br />
+
+
+## frpc启动失败
+
+检查用户访问密钥是否正常及隧道ID是否正常
+
+
+面板自下载的frpc二进制文件有问题 \
+前往[openfrp](https://openfrp.net)重新下载二进制文件并替换
+本问题以`一键脚本`安装位置为示例
+```bash
+cd /opt/mcsmanager/daemon/lib
+wget <Download url>
+tar vxf <tar.gz文件>
+mv frpc_linux_amd64 frpc_linux_x64
+chmod +x frpc_linux_x64
+```
+
+以上步骤执行完毕后需重启实例或重新填写frpc启动信息等
+
+<br />

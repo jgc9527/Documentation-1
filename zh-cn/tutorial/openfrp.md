@@ -46,3 +46,6 @@
 把这个地址发给你的朋友就可以实现联机。
 
 ![图片](images/result_frp_ip.png)
+
+
+- frpc无法启动的问题[请看](/zh-cn/tutorial/common_qa.md)

@@ -8,6 +8,7 @@
   - [搭建 Java 版 Minecraft 服务端](zh-cn/tutorial/java_windows.md)
   - [搭建 BDS 版 Minecraft 服务端](zh-cn/tutorial/ubuntu_bds.md)
   - [使用 Docker-Compose 部署](zh-cn/tutorial/docker-compose.md)
+  - [使用 Docker-Cli 部署](zh-cn/tutorial/docker-cli.md)
 
 - 面板配置与使用
 
